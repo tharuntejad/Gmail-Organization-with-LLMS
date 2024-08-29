@@ -1,0 +1,20 @@
+
+# Mail
+secure-smtplib == 0.1.1
+
+# LLM
+openai == 1.42.0
+ollama == 0.3.1
+langchain == 0.2.14
+langchain-openai == 0.1.22
+langchain-community == 0.2.12
+
+# Data Processing
+pandas == 2.2.0
+pyarrow == 15.0.2
+beautifulsoup4 == 4.12.3
+chardet == 5.2.0
+
+# Env variables
+python-dotenv == 1.0.1
+pydantic == 2.8.2
